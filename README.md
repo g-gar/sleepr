@@ -1,6 +1,6 @@
 # Sleepr
 
-Makes easier to sleep by monitoring your constants with wewarables like smart bands and playing music from filesystem or from YouTube playlists.
+Makes easier to sleep by monitoring your constants with wearables like smart bands and playing music from filesystem or from YouTube playlists.
 
 ## Currently supported smart bands
   * Mi Smart Band 4
